@@ -1,6 +1,6 @@
 # Cypress Target App
 
-This project is a simple React app to be run against another repo with [Cypress](https://www.cypress.io/) e2e tests.
+This project is a simple React app to be run against another [repo - Cypress Test Drive](https://github.com/craig-o-curtis/cypress-test-drive) with [Cypress](https://www.cypress.io/) e2e tests.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
